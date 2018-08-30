@@ -1,11 +1,13 @@
 # Learn_Machine_Learning_in_3_Months
 
 This is the Curriculum for "Learn Machine Learning in 3 Months" [this](https://youtu.be/Cr6VqTRO1v0) video by Siraj Raval on Youtube 
+* [Notes](https://github.com/HenryFMa/Learn_Machine_Learning_in_3_Months/wiki/Learn-Machine-Learning-in-3-Months)
 
 # Month 1
 
 ## Week 1 Linear Algebra
 https://www.youtube.com/watch?v=kjBOesZCoqc&index=1&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
+* [Notes](https://github.com/HenryFMa/Learn_Machine_Learning_in_3_Months/wiki/Essence-of-Linear-Algebra)
 https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/
 ## Week 2 Calculus
 https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr
